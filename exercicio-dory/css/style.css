@@ -1,19 +1,30 @@
 body {
     background-color: navy;
-    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VD3_AF7De/beautiful-marine-background-underwater-scene-with-light-rays-hd-1080_ndjxu5-cl__F0011.png");
+    background-image: url(../img/fundoomar.png);
     background-repeat: no-repeat;
     text-align: center;
-    color: white;
     margin-top: 50px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arvo', Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h1 { 
+    color: white;
+    text-transform: uppercase; 
+}
+
+hr {
+    width: 200px;
 }
 
 img {
-    siz: ;
-    height: auto;
+    width: 400px;
 }
 
-h1 {
-    line-height: 3px;
+a {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
 }
 
