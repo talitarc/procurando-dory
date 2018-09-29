@@ -13,18 +13,38 @@ h1 {
     text-transform: uppercase; 
 }
 
+.titulo {
+
+}
+
 hr {
+    border: none;
+    height: 3px;
     width: 200px;
+    color: white;
+    background-color: white;
 }
 
 img {
     width: 400px;
 }
 
-a {
+.botao {
     background-color: white;
     color: black;
     text-decoration: none;
     padding: 10px;
+    display: inline-block;
+    margin: 15px;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 30px;
+
+}
+
+li {
+    margin: 5px;
+}
